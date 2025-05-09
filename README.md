@@ -88,6 +88,10 @@ Enlace para [simular](http://www.pythontutor.com/c.html#code=%23define%20NULL%20
 
 </details>
 
+<strong>Integrantes</strong>
+> Johana Sevillano
+> -Angi Sirley Hoyos
+
 ## Actividades de laboratorio ##
 
 1. Escriba un programa simple llamado ```null.c``` que cree un puntero a un entero, llevelo a null y entonces intente desreferenciarlo (esto es, asignarle un valor). Compile este programa llamado ```null```. ¿Qué pasa cuando usted ejecuta este programa?
